@@ -4,7 +4,7 @@ This project aims to explore the relationship between personality traits and pro
 behavior in academic and workplace environments. Our research adopts the Big Five Personality Traits framework, also known as the Five-Factor Model (FFM) or the OCEAN model, 
 which categorizes human personality into five distinct dimensions: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. 
 
-These five traits provide a robust taxonomy for understanding the various ways individuals perceive and interact with the world around them. 
+These five traits provide a robust taxonomy for understanding how individuals perceive and interact with the world around them. 
 By leveraging this model, we aim to predict how different personality types will perform in work-related tasks, especially in high-stakes environments such as job placements. 
 
 1.1 The Big Five Personality Traits 
@@ -21,3 +21,5 @@ Introverts prefer solitude or smaller group interactions.
 Lower agreeableness may be linked to assertiveness and competitiveness. 
 5. Neuroticism: Measures emotional stability and resilience. Individuals high in Neuroticism may be associated with mood swings, anxiety, or emotional sensitivity, while 
 Those low in neuroticism tend to be more emotionally stable and composed.
+
+Website link to check your behavior:- https://project-opal-one-23.vercel.app/
